@@ -1,2 +1,2 @@
 [Pagina en español](web.html) | Pagina web en español
-[Pagina en ingles](webi.html) | Pagina web traducida
+[Page in English](webi.html) | Translated web
